@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+@tailwind utilities;
+
+
+
+.App {
+  @apply text-center ;
+}
+
+button {
+    @apply bg-gray-300 border-black border-2 rounded-md p-1 hover:bg-gray-100;
+}
