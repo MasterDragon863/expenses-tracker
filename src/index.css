@@ -5,7 +5,7 @@
 
 
 .App {
-  @apply text-center ;
+  @apply text-center font-medium;
 }
 
 button {
